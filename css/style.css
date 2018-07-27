@@ -1301,7 +1301,7 @@ div.gallery {
 	margin: 5px;
 	border: 1px solid #ccc;
 	float: left;
-	width: 50%;
+	width: 100%;
 }
 
 div.gallery:hover {
@@ -1314,6 +1314,42 @@ div.gallery img {
 }
 
 div.desc {
-	padding: 15px;
+	padding: 10px;
 	text-align: center;
+}
+
+div.IOTGallery {
+	margin: 5px;
+	border: 1px solid #ccc;
+	float: left;
+	width: 100%;
+}
+
+div.IOTGallery:hover {
+	border: 1px solid #777;
+}
+
+div.IOTGallery img {
+	width: 100%;
+	height: 200px;
+}
+
+.abstractHeading{
+	font-size: 16px;
+}
+
+.abstractContent{
+	font-size: 16px;
+}
+
+.textCenter{
+	text-align: center !important;
+}
+
+.navbar .brand{
+	font-size: 30px !important;
+}
+
+.textBold{
+	font-weight: bold !important;
 }
