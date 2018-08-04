@@ -1334,6 +1334,10 @@ div.IOTGallery img {
 	height: 200px;
 }
 
+div.galleryVideo:hover {
+	border: 1px solid #777;
+}
+
 .abstractHeading{
 	font-size: 16px;
 }
